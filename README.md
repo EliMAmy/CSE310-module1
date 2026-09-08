@@ -8,7 +8,6 @@ The system will meet the requirements by allowing users to add, view, update, de
 
 First, I will develop the basic functionality using Kotlin. Then, I will create an Android application with a user-friendly interface. Finally, I plan to connect the application to Firebase Cloud Firestore so that the experiment data can be stored and accessed from the cloud.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](https://www.youtube.com/watch?v=ANDCaqywwAA)
 
